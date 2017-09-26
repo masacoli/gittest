@@ -6,3 +6,4 @@ version changed
 git add
 git commit
 
+git rm
