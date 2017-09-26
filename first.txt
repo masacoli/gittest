@@ -2,3 +2,7 @@ practice git now
 my project
 
 version changed
+
+git add
+git commit
+
